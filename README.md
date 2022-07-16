@@ -10,8 +10,8 @@ It's easy to install and run it on your computer.
 
 ```shell
 # 1. First, clone the repo
-$ git clone https://github.com/mtobeiyf/keras-flask-deploy-webapp.git
-$ cd keras-flask-deploy-webapp
+$ git clone https://github.com/Chandan-Hemraj/Image_Recognition_System.git
+$ cd Image_Recognition_System
 
 # 2. Install Python packages
 $ pip install -r requirements.txt
