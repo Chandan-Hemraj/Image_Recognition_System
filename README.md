@@ -7,14 +7,14 @@ Project Description : Machine learning model is used to classify the image. This
 ## Deployment
 
 ### Dockerring the flaskapp
-
+```shell
 - az login 
 - az acr login
 - az acr login -n imagerecognition111
 - docker build -t keras_flask_app .
 - docker tag keras_flask_app imagerecognition111.azurecr.io/keras_flask_app 
 - docker push imagerecognition111.azurecr.io/keras_flask_app   
-  
+```
   
 2) Pushing the docker image to Azure container registry.
 
