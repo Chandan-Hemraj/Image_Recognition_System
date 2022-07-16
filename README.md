@@ -60,7 +60,5 @@ $ docker push imagerecognition111.azurecr.io/keras_flask_app
 [link text](https://example.com/my-link "link title")
 
 <p align="center">
-  <img src="<p align="center">
-  <img src="https://user-images.githubusercontent.com/87279692/179357699-db195af3-35a2-4354-8a6a-4f8a6647f288.png" height="480px" alt="">
-</p>" height="480px" alt="">
+  <img src="https://youtu.be/0HoJIRVyY-U" height="480px" alt="">
 </p>
