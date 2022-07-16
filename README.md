@@ -56,6 +56,6 @@ $ docker push imagerecognition111.azurecr.io/keras_flask_app
 
 ## Links
 
-Demonstration Video : https://youtu.be/0HoJIRVyY-U
-Deployment URL : https://imagerecognition111.azurewebsites.net
+##### Demonstration Video : https://youtu.be/0HoJIRVyY-U
+##### Deployment URL : https://imagerecognition111.azurewebsites.net
 
