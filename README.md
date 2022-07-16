@@ -56,9 +56,4 @@ $ docker push imagerecognition111.azurecr.io/keras_flask_app
 
 ## Demonstration Video
 
-![image alt text](https://example.com/link-to-image)
-[link text](https://example.com/my-link "link title")
-
-<p align="center">
-  <img src="https://youtu.be/0HoJIRVyY-U" height="480px" alt="">
-</p>
+[![Image Recognition System](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/0HoJIRVyY-U)
