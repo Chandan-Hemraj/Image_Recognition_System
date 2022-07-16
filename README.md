@@ -29,17 +29,20 @@ $ python app.py
 #### 1) Dockerizing the flaskapp
 
 ```shell
+# 1. First, Login to Azure
 $ az login 
-$ az acr login
+# 2. Then, Login to your Azure Container Registry
 $ az acr login -n imagerecognition111
+# 3. Write Docker File and Build the Flaskapp
 $ docker build -t keras_flask_app .
+# 4. Change the image tag to your registry name
 $ docker tag keras_flask_app imagerecognition111.azurecr.io/keras_flask_app 
-$ docker push imagerecognition111.azurecr.io/keras_flask_app   
 ```
   
 #### 2) Pushing the docker image to Azure container registry.
 
 ```shell
+# 5. Then, Pushing it to Azure Container Registry
 $ docker push imagerecognition111.azurecr.io/keras_flask_app
 ```
 
