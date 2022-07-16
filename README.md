@@ -44,7 +44,7 @@ $ python app.py
 :point_down: Screenshot:
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/87279692/179357633-3b4cd635-3108-40eb-8fa5-61cdb9eb2d0e.png" height="480px" alt="">
+  <img src="https://user-images.githubusercontent.com/87279692/179357699-db195af3-35a2-4354-8a6a-4f8a6647f288.png" height="480px" alt="">
 </p>
 
 
