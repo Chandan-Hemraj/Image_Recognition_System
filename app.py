@@ -63,7 +63,6 @@ def index():
     # Main page
     return render_template('index.html')
 
-
 @app.route('/predict', methods=['GET', 'POST'])
 def predict():
     if request.method == 'POST':
@@ -90,7 +89,7 @@ def predict():
 
 
 if __name__ == '__main__':
-    # app.run(port=5002, threaded=False)
+    #app.run(host="0.0.0.0", port=80)
 
     # Serve the app with gevent
     http_server = WSGIServer(('0.0.0.0', 5000), app)
