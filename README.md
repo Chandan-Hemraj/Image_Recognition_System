@@ -43,9 +43,9 @@ $ python app.py
 
 :point_down: Screenshot:
 
-
-![image](https://user-images.githubusercontent.com/87279692/179357633-3b4cd635-3108-40eb-8fa5-61cdb9eb2d0e.png)
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/87279692/179357633-3b4cd635-3108-40eb-8fa5-61cdb9eb2d0e.png" height="480px" alt="">
+</p>
 
 
 ## Customization
