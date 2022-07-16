@@ -20,7 +20,7 @@ $ pip install -r requirements.txt
 $ python app.py
 ```
 
-## Deployment using **[Docker](https://www.docker.com)**
+## Deployment using **[Docker](https://www.docker.com)** and [Azure](https://azure.microsoft.com/)
 
 #### 1) Dockerizing the flaskapp
 
