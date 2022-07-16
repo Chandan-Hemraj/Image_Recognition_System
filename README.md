@@ -6,7 +6,7 @@ Project Description : Machine learning model is used to classify the image. This
 
 ## Deployment
 
-###Dockerring the flaskapp
+### Dockerring the flaskapp
 
 - az login 
 - az acr login
