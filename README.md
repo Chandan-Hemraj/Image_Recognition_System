@@ -54,6 +54,4 @@ $ docker push imagerecognition111.azurecr.io/keras_flask_app
   <img src="https://user-images.githubusercontent.com/87279692/179357699-db195af3-35a2-4354-8a6a-4f8a6647f288.png" height="350px" alt="">
 </p>
 
-## Demonstration Video
-
-[![Image Recognition System](https://user-images.githubusercontent.com/87279692/179359397-583e24ef-abce-4570-990a-b1552e9b2c77.png)](https://youtu.be/0HoJIRVyY-U)
+## [Demonstration Video](https://youtu.be/0HoJIRVyY-U)
