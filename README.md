@@ -39,9 +39,13 @@ $ python app.py
 - docker push imagerecognition111.azurecr.io/keras_flask_app
 ```
 
-3) Using that image and deploy using Azure App service.
+#### 3) Deploy that image using Azure App service.
 
 :point_down: Screenshot:
+
+
+![image](https://user-images.githubusercontent.com/87279692/179357633-3b4cd635-3108-40eb-8fa5-61cdb9eb2d0e.png)
+
 
 
 ## Customization
