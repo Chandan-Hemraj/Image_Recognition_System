@@ -61,4 +61,4 @@ Check the [commented code](https://github.com/mtobeiyf/keras-flask-deploy-webapp
 
 See [Keras applications](https://keras.io/applications/) for more available models such as DenseNet, MobilNet, NASNet, etc.
 
-Check [this section](https://github.com/mtobeiyf/keras-flask-deploy-webapp/blob/master/app.py#L26) in app.py.
+Check [this section](https://github.com/Chandan-Hemraj/Image_Recognition_System/blob/main/app.py#L26) in app.py.
